@@ -1,0 +1,5 @@
+{
+  "name": "Copy of SVG to PNG Converter",
+  "description": "A simple and beautiful tool to convert your SVG files to high-quality PNG images right in your browser. Upload an SVG, and instantly get a downloadable PNG.",
+  "requestFramePermissions": []
+}
